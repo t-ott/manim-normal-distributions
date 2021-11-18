@@ -19,3 +19,4 @@ If ```manim``` and its various dependencies are installed (see ```manim``` [docs
 ```
 manim -pqm bivariate.py AdjustRho
 ```
+Which would render the ```AdjustRho``` scene. The ```-p``` flag would play the rendered video once it's complete, and ```-qm``` specifies a medium quality render (720p).
