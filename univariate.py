@@ -4,7 +4,7 @@ import math
 
 def PDF_normal(x, mu, sigma):
     '''
-    General form of probabilty density function of univariate normal distribution
+    General form of probability density function of univariate normal distribution
     '''
     return math.exp(-((x-mu)**2)/(2*sigma**2))/(sigma*math.sqrt(2*math.pi))
 
