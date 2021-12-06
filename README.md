@@ -3,7 +3,7 @@
 Python code to render two and three-dimensional scenes of normal distributions with the ```manim``` library, specifically with the [Manim Community](https://github.com/ManimCommunity/manim) fork of ```manim```.
 
 ***
-**A blog post walking through some of the code can be found [here](https://t-ott.dev/).**
+**A blog post walking through some of the code can be found [here](https://www.t-ott.dev/2021/11/24/animating-normal-distributions).**
 ***
 
 ### Univariate Normal Distributions
